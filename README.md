@@ -26,7 +26,7 @@ A interface foi pensada com foco em:
 - Figma
 - 
 ## 🔗 Acesse o Protótipo
-[Acessar protótipo no Figma]([https://www.figma.com/seu-link-aqui](https://www.figma.com/proto/IdtpI9tcTsdjam9mZNU5uT/EXERC%C3%8DCIO-1?node-id=0-1&t=pWip3hz3RFVJi1PJ-1))
+https://www.figma.com/proto/IdtpI9tcTsdjam9mZNU5uT/EXERC%C3%8DCIO-1?node-id=0-1&t=gk1p5Q3Q0QYRP5HF-1
 
 ## 📌 Observação
 Este projeto é um protótipo e não possui integração com banco de dados ou funcionalidades reais, sendo desenvolvido apenas para fins de estudo e demonstração de interface.
